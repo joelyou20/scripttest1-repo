@@ -1,1 +1,1 @@
-# BlazorWebAssembly-template
+# Blazor-Template
